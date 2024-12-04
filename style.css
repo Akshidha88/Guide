@@ -1,0 +1,104 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppings', sans-serif;
+}
+body{
+  background: #f2f2f2;
+}
+h1{
+  font-size: 120px;
+  text-align: center;
+  color: rgba(255,255,255, .4);
+}
+.parallax-1{
+  background: url('bg.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.parallax-2{
+  background: url('kap.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.parallax-3{
+  background: url('meena.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.parallax-4{
+  background: url('natraj.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.parallax-5{
+  background: url('sri rang.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.parallax-6{
+  background: url('brihadeshwara.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.parallax-7{
+  background: url('thiru.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.parallax-8{
+  background: url('thiruchendur-murugan-temple.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.parallax-9{
+  background: url('arulmigu-swaminatha.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.parallax-10{
+  background: url('pazhamudhircholai.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.parallax-11{
+  background: url('srivali.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+parallax-inner{
+  padding: 10% 0%;
+}
+h2{
+  font-size: 32px;
+  color: #555;
+  text-align: center;
+  font-weight: 300;
+  letter-spacing: 2px;
+  margin: 20px 0 10px;
+}
+p{
+  font-size: 16px;
+  color: #555;
+  text-align: justify;
+  line-height: 30px;
+  margin: 0 50px 40px;
+}
+p:nth-of-type(2),
+p:nth-of-type(3),
+p:nth-of-type(4)
+{
+  margin: 40px 50px;
+}
